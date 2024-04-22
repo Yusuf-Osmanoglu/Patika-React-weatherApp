@@ -10,7 +10,7 @@ import wind_icon from '../Assets/wind.png';
 
 // Fonksiyon bileşeninin adı değiştirildi
 const WeatherComponent = () => {
-  let api_key = "31e1db2eb80aae2abceffc7db96d58b0";
+  let api_key = "{/* Your API Key */}";
 
   const [wicon, setWicon] = useState("cloud_icon");  
 
