@@ -1,6 +1,6 @@
 # React Projesi
 
-Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuştur. Proje içerisinde, React ve Css kullanarak todo list yaptım.
+Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuştur. Proje içerisinde, bir hava durumu API'sinden veri çekilerek kullanıcıların önüne istedikleri şehirin derecesi, nemi, rüsgarı getirilmektedir. Kendi apiniz ile test edebilir siniz.
 
 ## Nasıl Çalıştırılır
 
@@ -44,7 +44,7 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 
 # React Project
 
-This project was created to develop a web application using React. In the project, I made a todo list using React and Css.
+This project was created to develop a web application using React. Within the project, data is retrieved from a weather API and users are presented with the temperature, humidity and wind of the city they want. You can test it with your own API.
 
 ## How to Run
 
